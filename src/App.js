@@ -20,7 +20,16 @@ class App extends Component {
       this.setState({score: score + 1})
       this.iconClick(targetIndex);
     } else {
-      this.setState({score: this.state.score = 0})
+      this.setState({score: this.setState.score = 0})
+      this.resetClicked();
+    }
+  };
+
+  resetClicked = () => {
+    const array = this.state.icons;
+    let i = array.length - 1;
+    for (; i > 0; i--) {
+    array[i].clicked = false;
     }
   };
 
