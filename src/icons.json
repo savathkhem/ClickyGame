@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "name": "Akuma",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Balrog",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Blanka",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "ChungLi",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "DarkRyu",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Dhalsim",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Kasugano",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Ken",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Makoto",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Ryu",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "StreetFighter",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Zangief",
+    "clicked": false
+  }
+]
